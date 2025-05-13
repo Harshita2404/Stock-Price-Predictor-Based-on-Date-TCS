@@ -6,17 +6,17 @@ Welcome to the **Stock Price Predictor**, a simple yet effective machine learnin
 
 ## 🎥 Demonstration
 
-![Demonstration](demonstration.gif)
+![Demonstration](snapshots/demonstration.gif)
 
 ---
 
 ## 🖼 Snapshots
 
 ### 📌 GUI Preview
-![Snap 1](snap1.png)
+![Snap 1](snapshots/snap1.png)
 
-### 📌 Prediction in Action
-![Snap 2](snap2.png)
+### 📌 Graph Visualization
+![Snap 2](snapshots/snap2.png)
 
 ---
 
