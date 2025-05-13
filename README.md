@@ -66,5 +66,5 @@ Predict the stock price of **TCS** for a user-given date using historical data a
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-repo/stock-price-predictor.git
-cd stock-price-predictor
+git clone https://github.com/Harshita2404/Stock-Price-Predictor-Based-on-Date-TCS-.git
+cd Stock-Price-Predictor-Based-on-Date-TCS-
